@@ -1,0 +1,1 @@
+//2. Write a function to check if a number is prime and use it to sum all prime numbers up to 100.
