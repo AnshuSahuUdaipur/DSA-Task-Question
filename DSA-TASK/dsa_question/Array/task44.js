@@ -9,3 +9,5 @@ const set1 = new Set(array1);
 const ans = array2.filter(item => set1.has(item));
 
 console.log("Intersection of the two arrays:", ans);
+
+
